@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap");
+
+body {
+  background-color: #e8e8e4;
+}
+
+.App {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  letter-spacing: 0.2rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+input {
+  width: 50vw;
+  height: 30px;
+}
+
+.emoji {
+  font-size: 50px;
+  padding: 1rem;
+  margin: 2rem 0.5rem;
+  cursor: pointer;
+}
+
+p {
+  margin: 2rem 0;
+}
+
+@media (max-width: 414px) {
+  .emoji {
+    font-size: 30px;
+  }
+  input {
+    width: 70vw;
+  }
+}
