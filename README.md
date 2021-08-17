@@ -12,7 +12,7 @@ This is a solution to the [Mark-8 of neoG camp](https://neog.camp/guide/lesson-f
 
 ## Overview
 - A simple emotion intepretor. It tells you meaning of emoji.
-- 
+
 ### The challenge
 - Learn react
 - create react app in codesandbx
